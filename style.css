@@ -1,9 +1,15 @@
 body{
     
 
-    font-family: 'Rubik Iso', cursive;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 200%;
 }
 table{
      margin: 0 auto;
 }
-
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
